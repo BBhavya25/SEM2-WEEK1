@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:blue;
+    color: red;
+    font-size: 34px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: (red, #000, rgba(212, 16, 146, 0.712));
+}
